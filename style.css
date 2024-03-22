@@ -1,6 +1,6 @@
 body{
 	background-image: url("imagesBg.jpg");
-	/* background-repeat: no-repeat; */ 
+	background-repeat: no-repeat; 
 }
 
 .topnav {
@@ -110,3 +110,4 @@ body{
 	width:100px;
 	height: 80px;
 }
+
